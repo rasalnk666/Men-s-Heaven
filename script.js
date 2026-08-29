@@ -1,7 +1,7 @@
 const products=[
-{name:"Linen Shirt",price:799,image:"images/linen-shirt.jpg"},
-{name:"Wide Leg Jeans",price:1299,image:"images/wide-leg-jeans.jpg"},
-{name:"Line Shirt",price:799,image:"images/line-shirt.jpg"}];
+{name:"Linen Shirt",price:799,image:linen-shirt.jpg"},
+{name:"Wide Leg Jeans",price:1299,image:wide-leg-jeans.jpg"},
+{name:"Line Shirt",price:799,image:line-shirt.jpg"}];
 
 // Replace with your WhatsApp number, country code included, no + or spaces.
 const WHATSAPP_NUMBER="918137929949";
